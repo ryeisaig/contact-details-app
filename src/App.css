@@ -1,0 +1,8 @@
+.App {
+  font-family: 'Montserrat', sans-serif;
+  padding: 40px;
+}
+
+.App h2, h5 {
+  text-align: center;
+}
